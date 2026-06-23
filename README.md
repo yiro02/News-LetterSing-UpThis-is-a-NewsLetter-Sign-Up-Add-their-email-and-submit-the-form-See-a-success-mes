@@ -10,7 +10,7 @@ El usuario puede ingresar su correo electrónico en el formulario, enviarlo y re
 - Diseño responsive y accesible.
 
 
-<img width="1400" height="800" alt="desktop-design" src="https://github.com/user-attachments/assets/90e636a9-185d-4c58-8c7c-5d18ebf979ae" />
+<img width="1000" height="800" alt="desktop-design" src="https://github.com/user-attachments/assets/90e636a9-185d-4c58-8c7c-5d18ebf979ae" />
 
 - **CSS3 / Tailwind CSS** → estilos modernos y responsive.
 - **JavaScript (ES6+)** → validación y manejo de eventos.
@@ -24,6 +24,8 @@ newsletter-signup/
  
 ## 
 **<img width="375" height="820" alt="mobile-design" src="https://github.com/user-attachments/assets/9259145e-b486-4f54-829e-cc89ab4e23c9" />**
+
+<img width="1000" height="800" alt="desktop-success-active" src="https://github.com/user-attachments/assets/d2200cc9-d7e7-44db-9861-388ffbea72c3" />
 
 📂 Instalación y uso
 1. Clona este repositorio:
